@@ -1,0 +1,1 @@
+print('Helo tu Ziemia')
