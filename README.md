@@ -9,3 +9,4 @@ print('-' * 50)
 
 kwota.symulacja()
 
+a teraz kolejna rzecz
