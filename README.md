@@ -9,4 +9,3 @@ print('-' * 50)
 
 kwota.symulacja()
 
-wyliczona kwota stanowi procent 
